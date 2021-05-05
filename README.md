@@ -12,17 +12,17 @@ Analysis requirements:
 
 # Resources
 ## Source data:
-  1.movies_metadata.csv
-  2.ratings.csv
-  3.wikipedia-movies.json
+    1.movies_metadata.csv
+    2.ratings.csv
+    3.wikipedia-movies.json
 
 ## Software/dependencies
-  1. Python
-  2. Pandas
-  3. Numpy
-  4. SQLAlchemy
-  5. psycopg2
-  6. PostgreSQL/PGAdmin
+    1. Python
+    2. Pandas
+    3. Numpy
+    4. SQLAlchemy
+    5. psycopg2
+    6. PostgreSQL/PGAdmin
 
 
 # Results
